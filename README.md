@@ -7,4 +7,4 @@ I'm KruzShady, a Venge Mod Maker. That's all I really do around here.
 
 # My Venge Mods
 - [VALORANT Mod](https://github.com/KruzShady/Valorant-Mod "VALORANT Mod")
-- **vWeeb Mod (Coming Soon™)**
+- [vWeeb](https://github.com/KruzShady/vWeeb "vWeeb")
