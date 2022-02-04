@@ -4,11 +4,6 @@ I'm shady, a kid with a couple programming languages inside his brain. The langu
 
 <p align="center">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&column=4" />
-</p>
-
-<p align="center">
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=u4pak&count_private=true&show_icons=true&theme=radical" />
 </p>
 
