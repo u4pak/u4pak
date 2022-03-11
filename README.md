@@ -9,6 +9,7 @@ I'm shady, a kid with a couple programming languages inside his brain. The langu
 <br>
 
 # 💻 Currently Working On
+## ATM I am mainly focusing on IRL stuff (drumline auditions for high school are fucking tough), so I won't be actively working on anything for the time being.
 - [3kh0.github.io](https://github.com/3kh0/3kh0.github.io) - A giant site with tons of unblocked games and tools to pass the time anywhere.
 <br>
 
