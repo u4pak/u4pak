@@ -12,8 +12,6 @@ If you're looking for the program u4pak, the UE4 pak tool, you can find it [here
 
 # 💻 Currently Working On
 - [Exchanger](https://github.com/u4pak/exchanger) - An open-source launcher for Fortnite that allows you to login and launch using an API authentication code, completely without EGL.
-- [3kh0.github.io](https://github.com/3kh0/3kh0.github.io) - A giant site with tons of unblocked games and tools to pass the time anywhere.
-<br>
 
 # 🕜 Past Projects
 - [FTI Map Alerter](https://github.com/u4pak/fti-map-alert) - A Discord bot that alerted a channel when the map image on https://fliptheisland.com changed.
