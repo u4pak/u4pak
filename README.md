@@ -1,8 +1,11 @@
+
+## I AM NOT THE CREATOR OF U4PAK
+If you're looking for the program u4pak, the UE4 pak tool, you can find it [here](https://github.com/panzi/u4pak).
+
+
 # ✨ About Me
 
-I'm shady, a kid with a couple programming languages inside his brain. The language that I know the most of is Python, but I also know a bit of JS and Lua, and I'm starting to learn C# (and HTML, but thats arguably a markdown language 🙃). I'm not really active on here much, and if I am, it's normally just to upload an open source project that people can learn from.
-
-If you're looking for the program u4pak, the UE4 pak tool, you can find it [here](https://github.com/panzi/u4pak).
+I'm shady, a kid with a couple programming languages inside his brain. The language that I know the most of is C#, but I also know a bit of JS, Python, Lua, C++, and HTML. I'm not really active on here much, and if I am, it's normally just to upload an open source project that people can learn from.
 
 <p align="center">
   <br>
@@ -11,7 +14,7 @@ If you're looking for the program u4pak, the UE4 pak tool, you can find it [here
 <br>
 
 # 💻 Currently Working On
-- [Exchanger](https://github.com/u4pak/exchanger) - An open-source launcher for Fortnite that allows you to login and launch using an API authentication code, completely without EGL.
+- Various mods for UE4 games (Fortnite, Multiversus, Rumbleverse, and more)
 
 # 🕜 Past Projects
 - [FTI Map Alerter](https://github.com/u4pak/fti-map-alert) - A Discord bot that alerted a channel when the map image on https://fliptheisland.com changed.
