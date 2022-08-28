@@ -5,7 +5,7 @@ If you're looking for the program u4pak, the UE4 pak tool, you can find it [here
 
 # ✨ About Me
 
-I'm shady, a kid with a couple programming languages inside his brain. The language that I know the most of is C#, but I also know a bit of JS, Python, Lua, C++, and HTML. I'm not really active on here much, and if I am, it's normally just to upload an open source project that people can learn from.
+I'm shady, a kid with a couple programming languages inside his brain. The language that I know the most of is Python, but I also know a bit of JS, C#, Lua, C++, and HTML. I'm not really active on here much, and if I am, it's normally just to upload an open source project that people can learn from.
 
 <p align="center">
   <br>
