@@ -14,7 +14,7 @@ I'm shady, a kid with a couple programming languages inside his brain. The langu
 <br>
 
 # 💻 Currently Working On
-- Various mods for UE4 games (Fortnite, Multiversus, Rumbleverse, and more)
+- [character.ai API Documentation](https://github.com/u4pak/characterai-api) - Unofficial guide and documentation for the https://character.ai/ API.
 
 # 🕜 Past Projects
 - [FTI Map Alerter](https://github.com/u4pak/fti-map-alert) - A Discord bot that alerted a channel when the map image on https://fliptheisland.com changed.
