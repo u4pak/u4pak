@@ -9,7 +9,7 @@ I'm shady, a kid with a couple programming languages inside his brain. The langu
 <br>
 
 # 💻 Currently Working On
-- [character.ai API Documentation](https://github.com/u4pak/characterai-api) - Unofficial guide and documentation for the https://character.ai/ API.
+- Learning how to navigate Kali 😭
 
 # 🕜 Past Projects
 - [character.ai API Documentation](https://github.com/u4pak/characterai-api) - The first ever unofficial guide and documentation for the https://character.ai/ API.
