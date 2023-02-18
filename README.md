@@ -1,6 +1,14 @@
 # ✨ About Me
 
-I'm shady, a kid with a couple programming languages inside his brain. The language that I know the most of is Python, but I also know a bit of JS, C++, C#, Lua, C++, and HTML. I'm not really active on here much, and if I am, it's normally just to upload an open source project that people can learn from.
+I'm shady, a security anyalyst with too much programming and reverse engenieering knowledge in his brain.
+
+##### Known languages:
+- ⭐ Python
+- JS
+- ⭐ C#
+- ⭐ C++
+- HTML
+- CSS
 
 <p align="center">
   <br>
@@ -17,6 +25,8 @@ I'm shady, a kid with a couple programming languages inside his brain. The langu
 ###### Had to private this ages ago due to character.ai staff threatening to take legal action, but now there's [plenty of other documentation / projects out there](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot), so I got kinda cucked :(
 
 - [Exchanger](https://github.com/u4pak/exchanger) - An open-source Fortnite launcher made in C# that allows you to launch any version of Fortnite on official servers with an exchange code.
+
+###### One of my first ever C# projects, and I really liked the way it turned out. Never got around to finishing some of the features though, so might return to developing it in the future.
 
 - [FTI Map Alerter](https://github.com/u4pak/fti-map-alert) - A Discord bot that alerted a channel when the map image on https://fliptheisland.com changed.
 
