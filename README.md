@@ -16,6 +16,8 @@ I'm shady, a kid with a couple programming languages inside his brain. The langu
 
 ###### Had to private this ages ago due to character.ai staff threatening to take legal action, but now there's [plenty of other documentation / projects out there](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot), so I got kinda cucked :(
 
+- [Exchanger](https://github.com/u4pak/exchanger) - An open-source Fortnite launcher made in C# that allows you to launch any version of Fortnite on official servers with an exchange code.
+
 - [FTI Map Alerter](https://github.com/u4pak/fti-map-alert) - A Discord bot that alerted a channel when the map image on https://fliptheisland.com changed.
 
 ###### Very broken with lots of bugs (didn't even work half the time lmao), but it's still a nice archive on my beginning coding experimentations with undoccumented APIs.
