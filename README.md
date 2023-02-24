@@ -4,16 +4,21 @@ I'm shady, a security anyalyst with too much programming and reverse engenieerin
 
 <img alight="left" src="https://github-readme-stats.vercel.app/api?username=u4pak&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats"> <img align="right" src="https://lanyard.cnrad.dev/api/876581935596589098" alt="Discord Status">
 
-
-<p align="center">
-    <h2> Known languages: </h2></p>
-- ⭐ Python
-- JS
-- ⭐ C#
-- ⭐ C++
-- HTML
-- CSS
-
+<h2 align="center"> Known languages: </h2>
+<div align="center">
+    ⭐ Python
+    <br>
+    JS
+    <br>
+    ⭐ C#
+    <br>
+    ⭐ C++
+    <br>
+    HTML
+    <br>
+    CSS
+</div>
+    
 # 💻 Currently Working On
 - Learning how to navigate Kali 😭
 
