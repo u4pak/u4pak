@@ -2,19 +2,17 @@
 
 I'm shady, a security anyalyst with too much programming and reverse engenieering knowledge in his brain.
 
-##### Known languages:
+<img alight="left" src="https://github-readme-stats.vercel.app/api?username=u4pak&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats"> <img align="right" src="https://lanyard.cnrad.dev/api/876581935596589098" alt="Discord Status">
+
+
+<p align="center">
+    <h2> Known languages: </h2></p>
 - ⭐ Python
 - JS
 - ⭐ C#
 - ⭐ C++
 - HTML
 - CSS
-
-<p align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=u4pak&count_private=true&show_icons=true&theme=radical" />
-</p>
-<br>
 
 # 💻 Currently Working On
 - Learning how to navigate Kali 😭
