@@ -2,7 +2,8 @@
 
 I'm shady, a security anyalyst with too much programming and reverse engenieering knowledge in his brain.
 
-<img alight="left" src="https://github-readme-stats.vercel.app/api?username=u4pak&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats"> <img align="right" src="https://lanyard.cnrad.dev/api/876581935596589098" alt="Discord Status">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=u4pak&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats">
+<img align="right" src="https://lanyard.cnrad.dev/api/876581935596589098" alt="Discord Status">
 
 <h2 align="center"> Known languages: </h2>
 <div align="center">
