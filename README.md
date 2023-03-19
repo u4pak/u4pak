@@ -49,7 +49,7 @@ I'm shady, a security anyalyst with too much programming and reverse engenieerin
 I'm not really active on Github, so if you want to get in contact with me, your best bet is through either Discord or Twitter.
 
 ### Discord:
-- shady#9999
+- shady#6969
 
 ### Twitter:
 - [@KruzShady](https://twitter.com/kruzshady)
