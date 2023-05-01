@@ -22,6 +22,7 @@ I'm shady, a security anyalyst with too much programming and reverse engenieerin
     
 # 💻 Currently Working On
 - [Economy Simulator: Reborn (ECS:R)](https://rbx.samu3l.wtf) - A new and improved 2016 Roblox revival, built off of the original ECS source code with newly added features, better security, and more.
+- [XZIBit](https://github.com/u4pak/xzibit) - Documentation on Spotify's numerous public developer test accounts, codenamed "XZIBit".
 
 # 🕜 Past Projects
 - [character.ai API Documentation](https://github.com/u4pak/characterai-api) - The first ever unofficial guide and documentation for the https://character.ai/ API.
