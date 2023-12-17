@@ -19,9 +19,6 @@ I'm shady, a security anyalyst with too much programming and reverse engenieerin
     CSS
 </div>
     
-# 💻 Currently Working On
-- [Economy Simulator](https://economysimulator.com/) - A new and improved 2016 Roblox revival, built off of the original ECS source code with newly added features, better security, and more.
-
 # 🕜 Past Projects
 - [character.ai API Documentation](https://github.com/u4pak/characterai-api) - The first ever unofficial guide and documentation for the https://character.ai/ API.
 
