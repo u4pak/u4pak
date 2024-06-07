@@ -4,7 +4,7 @@ I'm shady, a security anyalyst with too much programming and reverse engenieerin
 </br>
 
 <img align="right" src="https://lanyard.cnrad.dev/api/876581935596589098" alt="Discord Status">
-<h2 align="center"> Known languages: </h2>
+<h3 align="center"> Known languages: </h3>
 <div align="center">
     ⭐ Python
     <br>
