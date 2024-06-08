@@ -1,6 +1,6 @@
 # ✨ About Me
 
-I'm shady, a security anyalyst with too much programming and reverse engenieering knowledge in his brain.
+I'm shady, a programmer with a little bit of reverse engenieering knowledge and a whole lot of dumb thoughts.
 </br>
 
 <img align="right" src="https://lanyard.cnrad.dev/api/876581935596589098" alt="Discord Status">
