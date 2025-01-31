@@ -4,7 +4,7 @@
 - 💻 Researcher @ [Marvel Rivals Modding Hub](https://discord.gg/marvelrivalsmodding)
 <br>
 <a href="https://github.com/u4pak">
-    <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=u4pak&show_icons=true&locale=en&theme=apprentice" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=u4pak&show_icons=true&locale=en&theme=apprentice" />
 </a>
 
 <a href="https://github.com/u4pak">
