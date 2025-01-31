@@ -1,20 +1,12 @@
-# ✨ About Me
+<h1 align="center">shady 🐱‍👤</h1>
 
-I'm shady, a programmer with a little bit of reverse engenieering knowledge and a whole lot of dumb thoughts.
-</br>
+- 🛠 Developer @ [Economy Simulator: Reborn](https://ecsr.io/)
+- 💻 Researcher @ [Marvel Rivals Modding Hub](https://discord.gg/marvelrivalsmodding)
+<br>
+<a href="https://github.com/u4pak">
+    <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=u4pak&show_icons=true&locale=en&theme=apprentice" />
+</a>
 
-<img align="right" src="https://lanyard.cnrad.dev/api/876581935596589098" alt="Discord Status">
-<h3 align="center"> Known languages: </h3>
-<div align="center">
-    ⭐ Python
-    <br>
-    JS
-    <br>
-    ⭐ C#
-    <br>
-    ⭐ C++
-    <br>
-    HTML
-    <br>
-    CSS
-</div>
+<a href="https://github.com/u4pak">
+    <img align="right" src="https://lanyard.cnrad.dev/api/876581935596589098" />
+</a>
