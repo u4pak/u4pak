@@ -1,4 +1,3 @@
-<h1 align="left">🐱‍👤 shady</h1>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=u4pak&show_icons=true&locale=en&theme=apprentice" />
 <p align="left">
 
